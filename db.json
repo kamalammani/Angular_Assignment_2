@@ -1,0 +1,46 @@
+{
+  "employeeList": [
+    {
+      "FirstName": "Manikandan",
+      "LastName": "Manickam",
+      "Mobilenumber": "8940433289",
+      "Location": "Chennai",
+      "Qualification": "B.E",
+      "id": 2
+    },
+    {
+      "FirstName": "Suresh",
+      "LastName": "Kumar",
+      "Mobilenumber": "7639118090",
+      "Location": "Punjab",
+      "Qualification": "B.Tech",
+      "id": 3
+    },
+    {
+      "FirstName": "Ram",
+      "LastName": "Ranjith",
+      "Mobilenumber": "90345678",
+      "Location": "Pune",
+      "Qualification": "B.E",
+      "id": 4
+    },
+    {
+      "FirstName": "Pravin",
+      "LastName": "Rajendran",
+      "Mobilenumber": "895043892",
+      "Location": "New Delhi",
+      "Qualification": "B.Tech",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
